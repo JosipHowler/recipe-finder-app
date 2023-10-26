@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Authors
+
+- [@JosipHowler](https://github.com/JosipHowler)
+
+## Features
+
+- Ingredients input
+- Ingredients removal
+- Recipe search
+- Recipe visit
+
+## Additional
+
+For this app to work you need to visit the Spoonacular API at https://spoonacular.com/food-api and follow their docs to get your api key. Then in the App.js and Recipes.jsx replace the apiKey with your own
+
